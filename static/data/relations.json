@@ -1,0 +1,24 @@
+{
+    "relations": [
+        "Mother",
+        "Father",
+        "Sister",
+        "Brother",
+        "Grandmother",
+        "Grandfather",
+        "Aunt",
+        "Uncle",
+        "Cousin",
+        "Niece",
+        "Nephew",
+        "Daughter",
+        "Son",
+        "Stepmother",
+        "Stepfather",
+        "Stepsister",
+        "Stepbrother",
+        "2nd cousin",
+        "3rd cousin",
+        "Godparent"
+    ]
+}
